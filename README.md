@@ -1,6 +1,6 @@
 # Hi, I'm Mateo 👋
 
-**Full-Stack Developer · Madrid**  
+**Software Engineer · Madrid**  
 Building AI-powered tools and interactive applications. Currently focused on hackathon-grade products that connect LLMs with real-world data.
 
 ---
