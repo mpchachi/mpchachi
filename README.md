@@ -12,7 +12,7 @@ Plataforma de coordinación de emergencias construida sobre agentes de HappyRobo
 **[NeuroTransa](https://github.com/mpchachi/steady-arc)** · SteadyArc Hackathon
 Telemonitorización de recuperación post-ictus. Eye tracking, EMG y sensores de agarre feeding un backend serverless en AWS, con generación de informes clínicos vía Bedrock.
 
-**[Language Coach Analytics](https://github.com/mpchachi/projectEurope)** · Preploy Hackathon 2026
+**[Language Coach Analytics](https://github.com/mpchachi/projectEurope)** · Preply Hackathon 2026
 Dashboard post-sesión para profesores de idiomas. Deepgram transcribe la clase y un pipeline con Claude extrae 12 métricas pedagógicas: nivel CEFR, detección de errores, zonas grises donde el alumno duda.
 
 **[AnalistaMetal](https://github.com/mpchachi/AnalistaMetal)**
