@@ -1,63 +1,23 @@
-# Hi, I'm Mateo 👋
+# Mateo Pérez Guzmán
 
-**Software Engineer · Madrid**  
-Building AI-powered tools and interactive applications. Currently focused on hackathon-grade products that connect LLMs with real-world data.
+Software Engineer en Madrid. Empecé como Product Intern en Mito AI, ahora construyo producto: sistemas que conectan modelos con datos reales y con gente que los usa. Cofundador de FixedGap.
 
----
+Trabajo sobre todo en Python, TypeScript y AWS. FastAPI, React/Next, Postgres, pipelines de ML.
 
-## Tech Stack
+## Proyectos
 
-**Frontend**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+**[Gestión de incendios con agentes](#)** · HackSpain 2026
+Plataforma de coordinación de emergencias construida sobre agentes de HappyRobot. En la demo simulamos un incendio a pocos kilómetros del evento: el agente lo detectó, decidió el radio de afectación y llamó por teléfono a todo el mundo de la zona en tiempo real.
 
-**Backend & Data**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+**[NeuroTransa](https://github.com/mpchachi/steady-arc)** · SteadyArc Hackathon
+Telemonitorización de recuperación post-ictus. Eye tracking, EMG y sensores de agarre feeding un backend serverless en AWS, con generación de informes clínicos vía Bedrock.
 
-**AI / APIs**  
-![Claude](https://img.shields.io/badge/Claude_AI-D97706?style=flat&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Deepgram](https://img.shields.io/badge/Deepgram-101827?style=flat)
+**[Language Coach Analytics](https://github.com/mpchachi/projectEurope)** · Preploy Hackathon 2026
+Dashboard post-sesión para profesores de idiomas. Deepgram transcribe la clase y un pipeline con Claude extrae 12 métricas pedagógicas: nivel CEFR, detección de errores, zonas grises donde el alumno duda.
 
----
+**[AnalistaMetal](https://github.com/mpchachi/AnalistaMetal)**
+Audita facturas de proveedores industriales contra precios en tiempo real de aluminio (LME) y electricidad (OMIE) para detectar sobrecoste automáticamente.
 
-## Featured Projects
+## Contacto
 
-### 🎓 [Language Coach Analytics](https://github.com/mpchachi/projectEurope)
-Post-session analytics dashboard for language tutors. Deepgram transcribes the audio; Claude runs 12 pedagogical metrics (CEFR, error detection, gray zones). Built for **Preploy Hackathon 2026**.  
-`TypeScript` `React` `FastAPI` `Deepgram` `Claude AI`
-
-### 🧠 [NeuroTransa — Stroke Rehab Platform](https://github.com/mpchachi/steady-arc)
-Rehabilitation tool that uses eye tracking, EMG and grip sensors to monitor stroke recovery in real time. AWS Lambda backend with Amazon Bedrock report generation. Built for **SteadyArc Hackathon**.  
-`TypeScript` `React` `Arduino` `AWS Lambda` `Eye Tracking`
-
-### 🔍 [AnalistaMetal](https://github.com/mpchachi/AnalistaMetal)
-AI-powered platform that audits industrial supplier invoices against real-time LME aluminum and OMIE electricity prices to detect overpricing automatically.  
-`Python` `FastAPI` `Streamlit` `OpenAI` `Supabase`
-
-### 🎮 [Darkness Explorer](https://github.com/mpchachi/hackathongame)
-Web game built with Next.js for a hackathon.  
-`TypeScript` `Next.js`
-
----
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mpchachi&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpchachi&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
-
----
-
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateoperezguzman/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mateperezguzman@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mateoperezguzman/) · mateperezguzman@gmail.com
